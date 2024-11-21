@@ -1,4 +1,4 @@
-A simple exercise SQL Parser. Basic SQL parsing and AST generation
+A simple exercise SQL Parser. Basic SQL SELECT parsing and AST generation
 
 Following is an example SQL with the generated AST
 
